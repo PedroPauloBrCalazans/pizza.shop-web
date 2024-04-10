@@ -1,5 +1,3 @@
-
-
     * fix - Commits do tipo fix indicam que seu trecho de código commitado está solucionando um problema (bug fix), (se relaciona com o PATCH do versionamento semântico).
 
     * feat- Commits do tipo feat indicam que seu trecho de código está incluindo um novo recurso (se relaciona com o MINOR do versionamento semântico).
@@ -15,3 +13,9 @@
     * test - Commits do tipo test são utilizados quando são realizadas alterações em testes, seja criando, alterando ou excluindo testes unitários. (Não inclui alterações em código)
 
     * chore - Commits do tipo chore indicam atualizações de tarefas de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+** shadcn/ui
+
+ A biblioteca shadcn/ui, que é uma biblioteca de componentes pré-estilizados feitos em TailwindCSS. Esses componentes são construídos em cima de outras bibliotecas famosas, como o Radix, o Command Key e o ReactDatePicker. A ideia é que todos os componentes do shadcn/ui sigam o mesmo style guide, tornando-os visualmente semelhantes
